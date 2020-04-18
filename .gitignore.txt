@@ -1,2 +1,3 @@
 #Original file
 main1.ipynb
+ignoreme/
